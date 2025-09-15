@@ -15,4 +15,4 @@ $(DATA_DIR):
 
 # Cleanup
 clean:
-	rm -f $(WORDLIST_FILE)
+	rm -rf $(DATA_DIR)
