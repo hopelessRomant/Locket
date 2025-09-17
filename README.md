@@ -1,5 +1,5 @@
 # Locket
-An offline toolkit to create EVM compatible private keys, following high grade security practices.
+Toolkit to create EVM compatible private keys, following high grade security practices.
 
 ## Key Security Principles
 
